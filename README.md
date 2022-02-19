@@ -19,7 +19,7 @@ git clone https://github.com/AKING110/PAID
 
 cd PAID
 
-python2 Imtias.py
+python2 Imtiaz.py
 
 THIS IS PAID TOLLS 
 Come WApp +923237528063
