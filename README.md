@@ -15,6 +15,8 @@ pip2 install bs4
 
 pip2 install lolcat
 
+# RUN
+
 git clone https://github.com/AKING110/PAID
 
 cd PAID
