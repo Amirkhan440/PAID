@@ -1,4 +1,4 @@
-# PAID
+# NOTE THIS IS PAID TOLLS ❤
 apt update
 
 apt upgrade
@@ -24,4 +24,4 @@ cd PAID
 python2 Imtiaz.py
 
 THIS IS PAID TOLLS 
-Come WApp +923237528063
+Come WApp https://wa.me+923237528063
