@@ -1,3 +1,5 @@
+#NKING_TOLLS
+
 # NOTE THIS IS PAID TOLLS ❤
 apt update
 
